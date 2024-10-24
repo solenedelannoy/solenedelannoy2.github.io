@@ -18,5 +18,4 @@ I am a second year PhD student at CERMICS under the supervision of Axel Parmenti
 I am working on predictive maintenance of offshore electrical substations.
 
 Research interests:
-Operations Research
-Machine learning
+Operations Research, Machine learning
