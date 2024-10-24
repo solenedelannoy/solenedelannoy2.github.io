@@ -17,5 +17,5 @@ social: true # includes social icons at the bottom of the page
 I am a second year PhD student at CERMICS under the supervision of Axel Parmentier, and industrial collaboration with RTE.
 I am working on predictive maintenance of offshore electrical substations.
 
-Research interests:
+**Research interests:**
 Operations Research, Machine learning
