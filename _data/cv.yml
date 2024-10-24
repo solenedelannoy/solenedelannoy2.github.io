@@ -2,31 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Solène Delannoy-Pavy
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 13th March 2000
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master's degree
+      institution: Conservatoire National des Arts et Métiers (CNAM), Paris
+      year: 2022-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Operations Research
+    - title: Engineering degree
+      institution: Ecole Polytechnique, Palaiseau
+      year: 2019-2022
       description:
-        - Description 1.
-        - Description 2.
+        - Mathematics 
+    - title: Scientific preparatory classes (MPSI-MP)
+      institution: Lycée Henri IV, Paris
+      year: 2017-2019
 
 - title: Experience
   type: time_table
